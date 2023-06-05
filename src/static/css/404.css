@@ -1,0 +1,17 @@
+html, body{
+    margin: 0 auto;
+}
+
+div{
+    background-color: rgb(39, 39, 128);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h2, h3{
+    text-align: center;
+    color: white;
+    margin: 0 auto;
+}

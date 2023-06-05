@@ -1,0 +1,13 @@
+html, body{
+    margin: 0 auto;
+}
+
+div{
+    background-color: rgb(41, 41, 160);
+    height: max-content;
+}
+
+h2, h3{
+    text-align: center;
+    color: white;
+}
